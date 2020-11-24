@@ -1,6 +1,6 @@
 # Device Metrics
 
-This is a tool to record device metrics such as CPU usage, memory usage, and CPU temperature, written in C++.
+This is a tool to capture device metrics such as CPU usage, memory usage, and CPU temperature, written in C++.
 
 Example usage:
 ```c++
